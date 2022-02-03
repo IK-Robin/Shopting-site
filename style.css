@@ -208,7 +208,7 @@ a {
   margin: 0;
   padding: 0;
   background-color: rgba(247, 247, 247, 1);
-  background-image: url('.images/sliderBodyBackground.webp');
+  background-image: url('../../images/sliderBodyBackground.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
